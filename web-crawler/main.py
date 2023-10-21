@@ -39,7 +39,7 @@ def crawl_website(url):
     return emails, phone_numbers
 
 if __name__ == '__main__':
-    target_url = 'https://nitsri.ac.in/Pages/FacultyList.aspx?nDeptID=cs'  # Replace with the URL of the website you want to crawl
+    target_url = 'https://example.com'  # Replace with the URL of the website you want to crawl
     crawled_emails, crawled_phone_numbers = crawl_website(target_url)
 
     print("Crawled Emails:")
