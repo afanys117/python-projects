@@ -1,0 +1,5 @@
+Amazon | name@gmail.com | 123456
+Alibaba | name@gmail.com | qwerty
+Instagram | name@gmail.com | password
+addah | name@gmail.com | addah
+reddit | name@gmail.com | reddit
